@@ -1,0 +1,11 @@
+oauth
+ID
+UVd1MWZScThpSmFOLUJPck9nR2c6MTpjaQ
+secret
+0Y9a3X4vpt3kZTFS7c0GxcMrOGj51V5m9X3qX2Sp7SWiVKyj74
+
+consumer
+key
+3Q3uGWsEUkybJGk7fRQfkk4yx
+secret
+X2yHUZtN9vCc4bfRLewg3BboldtO0IETWYQezYVfyJ3NMvyI03
